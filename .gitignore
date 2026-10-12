@@ -1,0 +1,12 @@
+# Local Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Test Files (using your naming pattern)
+*_test.py
+
+# Python Cache & Virtual Environments
+__pycache__/
+.venv/
+env/
