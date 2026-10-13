@@ -3,6 +3,9 @@
 *.sqlite
 *.sqlite3
 
+# Local Image Files
+/images/
+
 # Test Files (using your naming pattern)
 *_test.py
 

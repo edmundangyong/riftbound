@@ -1,0 +1,210 @@
+domains,tags,name,text,id,set_code,number,variant,image_url
+"FURY, CHAOS","LEGEND, ANNIE",Dark Child - STARTER,"At the end of your turn, ready 2 runes.",OGS-17,OGS,17,,images/OGS-17.png
+"CALM, BODY","LEGEND, MASTER YI",Wuju Bladesman - STARTER,"While a friendly unit defends alone, it gets +2 {might}.",OGS-19,OGS,19,,images/OGS-19.png
+"MIND, ORDER","LEGEND, LUX",Lady of Luminosity - STARTER,"When you play a spell that costs {5} or more, draw 1.",OGS-21,OGS,21,,images/OGS-21.png
+"BODY, ORDER","LEGEND, GAREN",Might of Demacia - STARTER,"When you conquer, if you have 4+ units at that battlefield, draw 2.",OGS-23,OGS,23,,images/OGS-23.png
+"FURY, MIND","LEGEND, KAI'SA",Daughter of the Void,{tap}: {reaction} — {add} {power}. Use only to play spells. *(Abilities that add resources can't be reacted to.)*,OGN-247,OGN,247,,images/OGN-247.png
+"FURY, BODY","LEGEND, VOLIBEAR",Relentless Storm,"When you play a {mighty} unit, you may exhaust me to channel 1 rune exhausted. *(A unit if Mighty while it has 5+ {might}.)*",OGN-249,OGN,249,,images/OGN-249.png
+"FURY, CHAOS","LEGEND, JINX",Loose Cannon,"At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.",OGN-251,OGN,251,,images/OGN-251.png
+"FURY, ORDER","LEGEND, DARIUS",Hand of Noxus,"{tap}: {reaction} , {legion} — {add} {1}. *(Abilities that add resources can't be reacted to. Get the effect if you've played a card this turn.)*",OGN-253,OGN,253,,images/OGN-253.png
+"CALM, MIND","LEGEND, AHRI",Nine-Tailed Fox,"When an enemy unit attacks a battlefield you control, give it -1 {might} this turn, to a minimum of 1 {might}.",OGN-255,OGN,255,,images/OGN-255.png
+"CALM, BODY","LEGEND, LEE SIN",Blind Monk,"{1}, {tap}: Buff a friendly unit. *(If it doesn't have a buff, it gets a +1 {might} buff.)*",OGN-257,OGN,257,,images/OGN-257.png
+"CALM, CHAOS","LEGEND, YASUO",Unforgiven,"{2}, {tap}: Move a friendly unit to or from your base.",OGN-259,OGN,259,,images/OGN-259.png
+"CALM, ORDER","LEGEND, LEONA",Radiant Dawn,"When you stun one or more enemy units, buff a friendly unit. *(If it doesn't have a buff, it gets a +1 {might} buff.)*",OGN-261,OGN,261,,images/OGN-261.png
+"MIND, CHAOS","LEGEND, TEEMO",Swift Scout,"You may pay {1} to hide a card with {hidden} instead of {power}.
+{1}, {tap}: Put a Teemo unit you own into your hand from your Champion Zone or the board.",OGN-263,OGN,263,,images/OGN-263.png
+"MIND, ORDER","LEGEND, VIKTOR",Herald of the Arcane,"{1}, {tap}: Play a 1 {might} Recruit unit token.",OGN-265,OGN,265,,images/OGN-265.png
+"BODY, CHAOS","LEGEND, MISS FORTUNE",Bounty Hunter,{tap}: Give a unit {ganking} this turn. *(It can move from battlefield to battlefield.)*,OGN-267,OGN,267,,images/OGN-267.png
+"BODY, ORDER","LEGEND, SETT",The Boss,"When a buffed unit you control would die, you may pay {power} and exhaust me to spend its buff and recall it exhausted instead. *(Send it to base. This isn't a move.)*
+When you conquer, ready me.",OGN-269,OGN,269,,images/OGN-269.png
+"FURY, MIND","LEGEND, KAI'SA",Daughter of the Void,{tap}: {reaction} — {add} {power}. Use only to play spells. *(Abilities that add resources can't be reacted to.)*,OGN-299,OGN,299,,images/OGN-299.png
+"FURY, BODY","LEGEND, VOLIBEAR",Relentless Storm,"When you play a {mighty} unit, you may exhaust me to channel 1 rune exhausted. *(A unit if Mighty while it has 5+ {might}.)*",OGN-300,OGN,300,,images/OGN-300.png
+"FURY, CHAOS","LEGEND, JINX",Loose Cannon,"At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.",OGN-301,OGN,301,,images/OGN-301.png
+"FURY, ORDER","LEGEND, DARIUS",Hand of Noxus,"{tap}: {reaction} , {legion} — {add} {1}. *(Abilities that add resources can't be reacted to. Get the effect if you've played a card this turn.)*",OGN-302,OGN,302,,images/OGN-302.png
+"CALM, MIND","LEGEND, AHRI",Nine-Tailed Fox,"When an enemy unit attacks a battlefield you control, give it -1 {might} this turn, to a minimum of 1 {might}.",OGN-303,OGN,303,,images/OGN-303.png
+"CALM, BODY","LEGEND, LEE SIN",Blind Monk,"{1}, {tap}: Buff a friendly unit. *(If it doesn't have a buff, it gets a +1 {might} buff.)*",OGN-304,OGN,304,,images/OGN-304.png
+"CALM, CHAOS","LEGEND, YASUO",Unforgiven,"{2}, {tap}: Move a friendly unit to or from your base.",OGN-305,OGN,305,,images/OGN-305.png
+"CALM, ORDER","LEGEND, LEONA",Radiant Dawn,"When you stun one or more enemy units, buff a friendly unit. *(If it doesn't have a buff, it gets a +1 {might} buff.)*",OGN-306,OGN,306,,images/OGN-306.png
+"MIND, CHAOS","LEGEND, TEEMO",Swift Scout,"You may pay {1} to hide a card with {hidden} instead of {power}.
+{1}, {tap}: Put a Teemo unit you own into your hand from your Champion Zone or the board.",OGN-307,OGN,307,,images/OGN-307.png
+"MIND, ORDER","LEGEND, VIKTOR",Herald of the Arcane,"{1}, {tap}: Play a 1 {might} Recruit unit token.",OGN-308,OGN,308,,images/OGN-308.png
+"BODY, CHAOS","LEGEND, MISS FORTUNE",Bounty Hunter,{tap}: Give a unit {ganking} this turn. *(It can move from battlefield to battlefield.)*,OGN-309,OGN,309,,images/OGN-309.png
+"BODY, ORDER","LEGEND, SETT",The Boss,"When a buffed unit you control would die, you may pay {power} and exhaust me to spend its buff and recall it exhausted instead. *(Send it to base. This isn't a move.)*
+When you conquer, ready me.",OGN-310,OGN,310,,images/OGN-310.png
+"FURY, MIND","LEGEND, KAI'SA",Daughter of the Void,{tap}: {reaction} — {add} {power}. Use only to play spells. *(Abilities that add resources can't be reacted to.)*,OGN-299s,OGN,299,s,images/OGN-299s.png
+"FURY, BODY","LEGEND, VOLIBEAR",Relentless Storm,"When you play a {mighty} unit, you may exhaust me to channel 1 rune exhausted. *(A unit if Mighty while it has 5+ {might}.)*",OGN-300s,OGN,300,s,images/OGN-300s.png
+"FURY, CHAOS","LEGEND, JINX",Loose Cannon,"At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.",OGN-301s,OGN,301,s,images/OGN-301s.png
+"FURY, ORDER","LEGEND, DARIUS",Hand of Noxus,"{tap}: {reaction} , {legion} — {add} {1}. *(Abilities that add resources can't be reacted to. Get the effect if you've played a card this turn.)*",OGN-302s,OGN,302,s,images/OGN-302s.png
+"CALM, MIND","LEGEND, AHRI",Nine-Tailed Fox,"When an enemy unit attacks a battlefield you control, give it -1 {might} this turn, to a minimum of 1 {might}.",OGN-303s,OGN,303,s,images/OGN-303s.png
+"CALM, BODY","LEGEND, LEE SIN",Blind Monk,"{1}, {tap}: Buff a friendly unit. *(If it doesn't have a buff, it gets a +1 {might} buff.)*",OGN-304s,OGN,304,s,images/OGN-304s.png
+"CALM, CHAOS","LEGEND, YASUO",Unforgiven,"{2}, {tap}: Move a friendly unit to or from your base.",OGN-305s,OGN,305,s,images/OGN-305s.png
+"CALM, ORDER","LEGEND, LEONA",Radiant Dawn,"When you stun one or more enemy units, buff a friendly unit. *(If it doesn't have a buff, it gets a +1 {might} buff.)*",OGN-306s,OGN,306,s,images/OGN-306s.png
+"MIND, CHAOS","LEGEND, TEEMO",Swift Scout,"You may pay {1} to hide a card with {hidden} instead of {power}.
+{1}, {tap}: Put a Teemo unit you own into your hand from your Champion Zone or the board.",OGN-307s,OGN,307,s,images/OGN-307s.png
+"MIND, ORDER","LEGEND, VIKTOR",Herald of the Arcane,"{1}, {tap}: Play a 1 {might} Recruit unit token.",OGN-308s,OGN,308,s,images/OGN-308s.png
+"BODY, CHAOS","LEGEND, MISS FORTUNE",Bounty Hunter,{tap}: Give a unit {ganking} this turn. *(It can move from battlefield to battlefield.)*,OGN-309s,OGN,309,s,images/OGN-309s.png
+"BODY, ORDER","LEGEND, SETT",The Boss,"When a buffed unit you control would die, you may pay {power} and exhaust me to spend its buff and recall it exhausted instead. *(Send it to base. This isn't a move.)*
+When you conquer, ready me.",OGN-310s,OGN,310,s,images/OGN-310s.png
+"FURY, MIND","LEGEND, RUMBLE",Mechanized Menace,Your Mechs have {shield}. *(+1 {might} while they're defenders.)*,SFD-181,SFD,181,,images/SFD-181.png
+"FURY, BODY","LEGEND, LUCIAN",Purifier,Your Equipment each give {assault}. *(+1 {might} while equipped unit is an attacker.)*,SFD-183,SFD,183,,images/SFD-183.png
+"FURY, CHAOS","LEGEND, DARIUS",Glorious Executioner,"When you win a combat, draw 1. *(You win if only your units remain after combat.)*",SFD-185,SFD,185,,images/SFD-185.png
+"FURY, ORDER","LEGEND, REK'SAI",Void Burrower,"When you conquer, you may exhaust me to reveal the top 2 cards of your Main Deck. You may play one. Then recycle the rest.",SFD-187,SFD,187,,images/SFD-187.png
+"CALM, MIND","LEGEND, ORNN",Fire Below the Mountain,{tap}: {reaction} — {add} {power}. Use only to play gear or use gear abilities. *(Abilities that add resources can't be reacted to.)*,SFD-189,SFD,189,,images/SFD-189.png
+"CALM, BODY","LEGEND, JAX",Grandmaster at Arms,"{1}, {tap}: Attach a detached Equipment you control to a unit you control.
+{tap}: Attach an attached Equipment you control to a unit you control.",SFD-193,SFD,193,,images/SFD-193.png
+"CALM, CHAOS","LEGEND, IRELIA",Blade Dancer,"When you choose a friendly unit, you may exhaust me and pay {power} to ready it.
+When you conquer, you may pay {1} to ready me.",SFD-195,SFD,195,,images/SFD-195.png
+"CALM, ORDER","LEGEND, AZIR",Emperor of the Sands,"Your Sand Soldiers have {weaponmaster}.
+{1}, {tap}: Play a 2 {might} Sand Soldier unit token to your base. Use only if you've played an Equipment this turn.",SFD-197,SFD,197,,images/SFD-197.png
+"MIND, CHAOS","LEGEND, EZREAL",Prodigal Explorer,{tap}: {reaction} — Draw 1. Use only if you've chosen enemy units and/or gear twice this turn with spells or unit abilities.,SFD-199,SFD,199,,images/SFD-199.png
+"MIND, ORDER","LEGEND, RENATA GLASC",Chem-Baroness,"When you or an ally hold, you may exhaust me to play a Gold gear token exhausted.
+While your score is within 3 points of the Victory Score, your Gold {add} an additional {1}.",SFD-201,SFD,201,,images/SFD-201.png
+"BODY, CHAOS","LEGEND, SIVIR",Battle Mistress,"When you recycle a rune, you may exhaust me to play a Gold gear token exhausted.
+When one of more enemy units die, ready me.",SFD-203,SFD,203,,images/SFD-203.png
+"BODY, ORDER","LEGEND, FIONA",Grand Duelist,"When one of your units becomes {mighty}, you may exhaust me to channel 1 rune exhausted. *(A unit if Mighty while it has 5+ {might}.)*",SFD-205,SFD,205,,images/SFD-205.png
+"FURY, MIND","LEGEND, RUMBLE",Mechanized Menace,Your Mechs have {shield}. *(+1 {might} while they're defenders.)*,SFD-240,SFD,240,,images/SFD-240.png
+"FURY, BODY","LEGEND, LUCIAN",Purifier,Your Equipment each give {assault}. *(+1 {might} while equipped unit is an attacker.)*,SFD-241,SFD,241,,images/SFD-241.png
+"FURY, CHAOS","LEGEND, DARIUS",Glorious Executioner,"When you win a combat, draw 1. *(You win if only your units remain after combat.)*",SFD-242,SFD,242,,images/SFD-242.png
+"FURY, ORDER","LEGEND, REK'SAI",Void Burrower,"When you conquer, you may exhaust me to reveal the top 2 cards of your Main Deck. You may play one. Then recycle the rest.",SFD-243,SFD,243,,images/SFD-243.png
+"CALM, MIND","LEGEND, ORNN",Fire Below the Mountain,{tap}: {reaction} — {add} {power}. Use only to play gear or use gear abilities. *(Abilities that add resources can't be reacted to.)*,SFD-244,SFD,244,,images/SFD-244.png
+"CALM, BODY","LEGEND, JAX",Grandmaster at Arms,"{1}, {tap}: Attach a detached Equipment you control to a unit you control.
+{tap}: Attach an attached Equipment you control to a unit you control.",SFD-245,SFD,245,,images/SFD-245.png
+"CALM, CHAOS","LEGEND, IRELIA",Blade Dancer,"When you choose a friendly unit, you may exhaust me and pay {power} to ready it.
+When you conquer, you may pay {1} to ready me.",SFD-246,SFD,246,,images/SFD-246.png
+"CALM, ORDER","LEGEND, AZIR",Emperor of the Sands,"Your Sand Soldiers have {weaponmaster}.
+{1}, {tap}: Play a 2 {might} Sand Soldier unit token to your base. Use only if you've played an Equipment this turn.",SFD-247,SFD,247,,images/SFD-247.png
+"MIND, CHAOS","LEGEND, EZREAL",Prodigal Explorer,{tap}: {reaction} — Draw 1. Use only if you've chosen enemy units and/or gear twice this turn with spells or unit abilities.,SFD-248,SFD,248,,images/SFD-248.png
+"MIND, ORDER","LEGEND, RENATA GLASC",Chem-Baroness,"When you or an ally hold, you may exhaust me to play a Gold gear token exhausted.
+While your score is within 3 points of the Victory Score, your Gold {add} an additional {1}.",SFD-249,SFD,249,,images/SFD-249.png
+"BODY, CHAOS","LEGEND, SIVIR",Battle Mistress,"When you recycle a rune, you may exhaust me to play a Gold gear token exhausted.
+When one of more enemy units die, ready me.",SFD-250,SFD,250,,images/SFD-250.png
+"BODY, ORDER","LEGEND, FIONA",Grand Duelist,"When one of your units becomes {mighty}, you may exhaust me to channel 1 rune exhausted. *(A unit if Mighty while it has 5+ {might}.)*",SFD-251,SFD,251,,images/SFD-251.png
+"FURY, MIND","LEGEND, JHIN",Virtuoso,"When you play a spell, if you spent {4} of more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.",UNL-181,UNL,181,,images/UNL-181.png
+"FURY, BODY","LEGEND, RENGAR",Pridestalker,"When you play a unit, give a unit +1 {might} this turn.",UNL-183,UNL,183,,images/UNL-183.png
+"FURY, CHAOS","LEGEND, PYKE",Bloodharbor Ripper,"{1}, {tap}: Return a friendly unit at a battlefield to its owner's hand. Play a Gold gear token exhausted. *(It has ""{reaction} Kill this, {tap}: {add} {power}."")*",UNL-185,UNL,185,,images/UNL-185.png
+"FURY, ORDER","LEGEND, VI",Piltover Enforcer,"When you conquer, if you assigned 3 or more excess damage, you may exhaust me to ready a unit.",UNL-187,UNL,187,,images/UNL-187.png
+"CALM, MIND","LEGEND, LILLIA",Bashful Bloom,"{4}, {tap}: Play a ready 3 {might} Sprite unit token with {temporary}. This ability costs {1} less for each friendly unit with {temporary}.",UNL-189,UNL,189,,images/UNL-189.png
+"CALM, BODY","LEGEND, MASTER YI",Wuju Master,"{level_6} Your units have +1 {might}. *(While you have 6+ XP, get the effect.)*
+{level_11} Your units enter ready.",UNL-191,UNL,191,,images/UNL-191.png
+"CALM, CHAOS","LEGEND, VEX",Gloomist,"When you or an ally hold, you may exhaust me to draw 1.",UNL-193,UNL,193,,images/UNL-193.png
+"CALM, ORDER","LEGEND, IVERN",Green Father,"When you conquer or hold, you may exhaust me to replace that battlefield with a Brush battlefield token. *(Bird, Cat, Dog, Poro, and Ivern units have +1 {might} in Brush. It can be swapped back when scored.)*",UNL-195,UNL,195,,images/UNL-195.png
+"MIND, CHAOS","LEGEND, DIANA",Scorn of the Moon,{reaction} {tap}: {add} {1}. Spend this Energy only during showdowns. *(Abilities that add resources can't be reacted to.)*,UNL-197,UNL,197,,images/UNL-197.png
+"MIND, ORDER","LEGEND, LEBLANC",Deceiver,"When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. It becomes a copy of another unit there. Give it {temporary}.",UNL-199,UNL,199,,images/UNL-199.png
+"BODY, CHAOS","LEGEND, KHA'ZIX",Voidreaver,"When you win a combat, gain 1 XP.
+Spend 1 XP, {tap}: {buff} a unit.
+Spend 2 XP, {tap}: Move an exhausted friendly unit from a battlefield to its base.",UNL-201,UNL,201,,images/UNL-201.png
+"BODY, ORDER","LEGEND, POPPY",Keeper of the Hammer,"When you hold, gain 1 XP.
+Spend 3 XP, {tap}: Draw 1.",UNL-203,UNL,203,,images/UNL-203.png
+"FURY, MIND","LEGEND, JHIN",Virtuoso,"When you play a spell, if you spent {4} of more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.",UNL-226,UNL,226,,images/UNL-226.png
+"FURY, BODY","LEGEND, RENGAR",Pridestalker,"When you play a unit, give a unit +1 {might} this turn.",UNL-227,UNL,227,,images/UNL-227.png
+"FURY, CHAOS","LEGEND, PYKE",Bloodharbor Ripper,"{1}, {tap}: Return a friendly unit at a battlefield to its owner's hand. Play a Gold gear token exhausted. *(It has ""{reaction} Kill this, {tap}: {add} {power}."")*",UNL-228,UNL,228,,images/UNL-228.png
+"FURY, ORDER","LEGEND, VI",Piltover Enforcer,"When you conquer, if you assigned 3 or more excess damage, you may exhaust me to ready a unit.",UNL-229,UNL,229,,images/UNL-229.png
+"CALM, MIND","LEGEND, LILLIA",Bashful Bloom,"{4}, {tap}: Play a ready 3 {might} Sprite unit token with {temporary}. This ability costs {1} less for each friendly unit with {temporary}.",UNL-230,UNL,230,,images/UNL-230.png
+"CALM, BODY","LEGEND, MASTER YI",Wuju Master,"{level_6} Your units have +1 {might}. *(While you have 6+ XP, get the effect.)*
+{level_11} Your units enter ready.",UNL-231,UNL,231,,images/UNL-231.png
+"CALM, CHAOS","LEGEND, VEX",Gloomist,"When you or an ally hold, you may exhaust me to draw 1.",UNL-232,UNL,232,,images/UNL-232.png
+"CALM, ORDER","LEGEND, IVERN",Green Father,"When you conquer or hold, you may exhaust me to replace that battlefield with a Brush battlefield token. *(Bird, Cat, Dog, Poro, and Ivern units have +1 {might} in Brush. It can be swapped back when scored.)*",UNL-233,UNL,233,,images/UNL-233.png
+"MIND, CHAOS","LEGEND, DIANA",Scorn of the Moon,{reaction} {tap}: {add} {1}. Spend this Energy only during showdowns. *(Abilities that add resources can't be reacted to.)*,UNL-234,UNL,234,,images/UNL-234.png
+"MIND, ORDER","LEGEND, LEBLANC",Deceiver,"When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. It becomes a copy of another unit there. Give it {temporary}.",UNL-235,UNL,235,,images/UNL-235.png
+"BODY, CHAOS","LEGEND, KHA'ZIX",Voidreaver,"When you win a combat, gain 1 XP.
+Spend 1 XP, {tap}: {buff} a unit.
+Spend 2 XP, {tap}: Move an exhausted friendly unit from a battlefield to its base.",UNL-236,UNL,236,,images/UNL-236.png
+"BODY, ORDER","LEGEND, POPPY",Keeper of the Hammer,"When you hold, gain 1 XP.
+Spend 3 XP, {tap}: Draw 1.",UNL-237,UNL,237,,images/UNL-237.png
+"FURY, MIND","LEGEND, JHIN",Virtuoso,"When you play a spell, if you spent {4} of more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.",UNL-226s,UNL,226,s,images/UNL-226s.png
+"FURY, BODY","LEGEND, RENGAR",Pridestalker,"When you play a unit, give a unit +1 {might} this turn.",UNL-227s,UNL,227,s,images/UNL-227s.png
+"FURY, CHAOS","LEGEND, PYKE",Bloodharbor Ripper,"{1}, {tap}: Return a friendly unit at a battlefield to its owner's hand. Play a Gold gear token exhausted. *(It has ""{reaction} Kill this, {tap}: {add} {power}."")*",UNL-228s,UNL,228,s,images/UNL-228s.png
+"FURY, ORDER","LEGEND, VI",Piltover Enforcer,"When you conquer, if you assigned 3 or more excess damage, you may exhaust me to ready a unit.",UNL-229s,UNL,229,s,images/UNL-229s.png
+"CALM, MIND","LEGEND, LILLIA",Bashful Bloom,"{4}, {tap}: Play a ready 3 {might} Sprite unit token with {temporary}. This ability costs {1} less for each friendly unit with {temporary}.",UNL-230s,UNL,230,s,images/UNL-230s.png
+"CALM, BODY","LEGEND, MASTER YI",Wuju Master,"{level_6} Your units have +1 {might}. *(While you have 6+ XP, get the effect.)*
+{level_11} Your units enter ready.",UNL-231s,UNL,231,s,images/UNL-231s.png
+"CALM, CHAOS","LEGEND, VEX",Gloomist,"When you or an ally hold, you may exhaust me to draw 1.",UNL-232s,UNL,232,s,images/UNL-232s.png
+"CALM, ORDER","LEGEND, IVERN",Green Father,"When you conquer or hold, you may exhaust me to replace that battlefield with a Brush battlefield token. *(Bird, Cat, Dog, Poro, and Ivern units have +1 {might} in Brush. It can be swapped back when scored.)*",UNL-233s,UNL,233,s,images/UNL-233s.png
+"MIND, CHAOS","LEGEND, DIANA",Scorn of the Moon,{reaction} {tap}: {add} {1}. Spend this Energy only during showdowns. *(Abilities that add resources can't be reacted to.)*,UNL-234s,UNL,234,s,images/UNL-234s.png
+"MIND, ORDER","LEGEND, LEBLANC",Deceiver,"When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. It becomes a copy of another unit there. Give it {temporary}.",UNL-235s,UNL,235,s,images/UNL-235s.png
+"BODY, CHAOS","LEGEND, KHA'ZIX",Voidreaver,"When you win a combat, gain 1 XP.
+Spend 1 XP, {tap}: {buff} a unit.
+Spend 2 XP, {tap}: Move an exhausted friendly unit from a battlefield to its base.",UNL-236s,UNL,236,s,images/UNL-236s.png
+"BODY, ORDER","LEGEND, POPPY",Keeper of the Hammer,"When you hold, gain 1 XP.
+Spend 3 XP, {tap}: Draw 1.",UNL-237s,UNL,237,s,images/UNL-237s.png
+"FURY, CALM","LEGEND, AKALI",Rogue Assassin,"{empower_3_power} *({3}{power}: Empower me. Use only if not Empowered.)*
+{action} {tap}: If it's your turn, move a friendly unit in a showdown to base and if I'm {empowered} ready it.",VEN-139,VEN,139,,images/VEN-139.png
+"FURY, BODY","LEGEND, RENEKTON",Butcher of the Sands,"{reaction} {power}{power}, {tap}: {add} {2}. Spend this Energy only to play units or activated abilities of units.",VEN-141,VEN,141,,images/VEN-141.png
+"FURY, CHAOS","LEGEND, ZED",Master of Shadows,"When you banish a card you own, empower me. *(I become Empowered if I'm not already.)*
+{action} Disempower me, {tap}: Discard 1, then draw 1.",VEN-143,VEN,143,,images/VEN-143.png
+"CALM, MIND","LEGEND, NASUS",Curator of the Sands,"When you play a unit, gear, or activated ability with Energy cost {7} or more, you may exhaust me to ready up to 2 runes.",VEN-145,VEN,145,,images/VEN-145.png
+"CALM, ORDER","LEGEND, SHEN",Eye of Twilight,"{action} {tap}: Give a friendly unit {tank} this turn.
+*(It must be assigned combat damage first.)*",VEN-147,VEN,147,,images/VEN-147.png
+"MIND, BODY","LEGEND, JAYCE",Defender of Tomorrow,"{empower_2_power_power} *({2}{power}{power}: Empower me. Use only if not Empowered.)*
+{1}, {tap}: Ready a gear.
+{empowered} {1}, {tap}: Ready 2 gear.",VEN-149,VEN,149,,images/VEN-149.png
+"MIND, CHAOS","LEGEND, MEL",Soul's Reflection,"When you empower something else, empower me. *(I become Empowered if I'm not already.)*
+Disempower me, {tap}: Give a unit at a battlefield -2 {might} this turn.",VEN-151,VEN,151,,images/VEN-151.png
+"BODY, ORDER","LEGEND, AMBESSA",Matriarch of War,"When you empower something else, empower me. *(I become Empowered if I'm not already.)*
+Disempower me, {power}, {tap}: Ready a unit.",VEN-153,VEN,153,,images/VEN-153.png
+"CHAOS, ORDER","LEGEND, KENNEN",Heart of the Tempest,"When you play a card from anywhere other than your hand, empower me.
+{action} Disempower me, {tap}: Give a unit {assault_2} this turn. *(+2 {might} while it's an attacker.)*",VEN-155,VEN,155,,images/VEN-155.png
+"FURY, CALM","LEGEND, AKALI",Rogue Assassin,"{empower_3_power} *({3}{power}: Empower me. Use only if not Empowered.)*
+{action} {tap}: If it's your turn, move a friendly unit in a showdown to base and if I'm {empowered} ready it.",VEN-189,VEN,189,,images/VEN-189.png
+"FURY, BODY","LEGEND, RENEKTON",Butcher of the Sands,"{reaction} {power}{power}, {tap}: {add} {2}. Spend this Energy only to play units or activated abilities of units.",VEN-190,VEN,190,,images/VEN-190.png
+"FURY, CHAOS","LEGEND, ZED",Master of Shadows,"When you banish a card you own, empower me. *(I become Empowered if I'm not already.)*
+{action} Disempower me, {tap}: Discard 1, then draw 1.",VEN-191,VEN,191,,images/VEN-191.png
+"CALM, MIND","LEGEND, NASUS",Curator of the Sands,"When you play a unit, gear, or activated ability with Energy cost {7} or more, you may exhaust me to ready up to 2 runes.",VEN-192,VEN,192,,images/VEN-192.png
+"CALM, ORDER","LEGEND, SHEN",Eye of Twilight,"{action} {tap}: Give a friendly unit {tank} this turn.
+*(It must be assigned combat damage first.)*",VEN-193,VEN,193,,images/VEN-193.png
+"MIND, BODY","LEGEND, JAYCE",Defender of Tomorrow,"{empower_2_power_power} *({2}{power}{power}: Empower me. Use only if not Empowered.)*
+{1}, {tap}: Ready a gear.
+{empowered} {1}, {tap}: Ready 2 gear.",VEN-194,VEN,194,,images/VEN-194.png
+"MIND, CHAOS","LEGEND, MEL",Soul's Reflection,"When you empower something else, empower me. *(I become Empowered if I'm not already.)*
+Disempower me, {tap}: Give a unit at a battlefield -2 {might} this turn.",VEN-195,VEN,195,,images/VEN-195.png
+"BODY, ORDER","LEGEND, AMBESSA",Matriarch of War,"When you empower something else, empower me. *(I become Empowered if I'm not already.)*
+Disempower me, {power}, {tap}: Ready a unit.",VEN-196,VEN,196,,images/VEN-196.png
+"CHAOS, ORDER","LEGEND, KENNEN",Heart of the Tempest,"When you play a card from anywhere other than your hand, empower me.
+{action} Disempower me, {tap}: Give a unit {assault_2} this turn. *(+2 {might} while it's an attacker.)*",VEN-197,VEN,197,,images/VEN-197.png
+"FURY, CALM","LEGEND, AKALI",Rogue Assassin,"{empower_3_power} *({3}{power}: Empower me. Use only if not Empowered.)*
+{action} {tap}: If it's your turn, move a friendly unit in a showdown to base and if I'm {empowered} ready it.",VEN-189s,VEN,189,s,images/VEN-189s.png
+"FURY, BODY","LEGEND, RENEKTON",Butcher of the Sands,"{reaction} {power}{power}, {tap}: {add} {2}. Spend this Energy only to play units or activated abilities of units.",VEN-190s,VEN,190,s,images/VEN-190s.png
+"FURY, CHAOS","LEGEND, ZED",Master of Shadows,"When you banish a card you own, empower me. *(I become Empowered if I'm not already.)*
+{action} Disempower me, {tap}: Discard 1, then draw 1.",VEN-191s,VEN,191,s,images/VEN-191s.png
+"CALM, MIND","LEGEND, NASUS",Curator of the Sands,"When you play a unit, gear, or activated ability with Energy cost {7} or more, you may exhaust me to ready up to 2 runes.",VEN-192s,VEN,192,s,images/VEN-192s.png
+"CALM, ORDER","LEGEND, SHEN",Eye of Twilight,"{action} {tap}: Give a friendly unit {tank} this turn.
+*(It must be assigned combat damage first.)*",VEN-193s,VEN,193,s,images/VEN-193s.png
+"MIND, BODY","LEGEND, JAYCE",Defender of Tomorrow,"{empower_2_power_power} *({2}{power}{power}: Empower me. Use only if not Empowered.)*
+{1}, {tap}: Ready a gear.
+{empowered} {1}, {tap}: Ready 2 gear.",VEN-194s,VEN,194,s,images/VEN-194s.png
+"MIND, CHAOS","LEGEND, MEL",Soul's Reflection,"When you empower something else, empower me. *(I become Empowered if I'm not already.)*
+Disempower me, {tap}: Give a unit at a battlefield -2 {might} this turn.",VEN-195s,VEN,195,s,images/VEN-195s.png
+"BODY, ORDER","LEGEND, AMBESSA",Matriarch of War,"When you empower something else, empower me. *(I become Empowered if I'm not already.)*
+Disempower me, {power}, {tap}: Ready a unit.",VEN-196s,VEN,196,s,images/VEN-196s.png
+"CHAOS, ORDER","LEGEND, KENNEN",Heart of the Tempest,"When you play a card from anywhere other than your hand, empower me.
+{action} Disempower me, {tap}: Give a unit {assault_2} this turn. *(+2 {might} while it's an attacker.)*",VEN-197s,VEN,197,s,images/VEN-197s.png
+"FURY, MIND","LEGEND, EKKO",Boy Who Shattered Time,"{empower} — {1}, {tap} *(Use only if not Empowered.)*
+Disempower me, {tap}: Reduce the cost of the next unit you play this turn by {2} {power} and give it ""Kill me at end of turn.""",RAD-139,RAD,139,,images/RAD-139.png
+"FURY, CHAOS","LEGEND, ZIGGS",Hexplosives Expert,"{1} {power}, {tap}: Play a Bomb gear token to a battlefield. *(It has {deploy}. When it dies, deal 2 to an enemy there and kill your other Bombs there.)*",RAD-141,RAD,141,,images/RAD-141.png
+"FURY, ORDER","LEGEND, MORDEKAISER",Iron Revenant,"{reaction} Banish a unit or gear from your trash, {tap}: {add} {power}. Spend this Power only to play units or gear. *(Abilties that add resources can't be reacted to.)*",RAD-143,RAD,143,,images/RAD-143.png
+"CALM, MIND","LEGEND, ORIANNA",Lady of Clockwork,"At the start of our Main Phase, you may pay {1} to choose a friendly gear. It becomes a unit gear with Might equal to its Energy cost until you choose another gear with me.",RAD-145,RAD,145,,images/RAD-145.png
+"CALM, BODY","LEGEND, K'SANTE",Pride of Nazumah,"{1}, {tap}: Give a friendly unit ""I have {assault} equal to my {shield}"" this turn. *(+1 {might} for each instance of Assault while it's an attacker.)*",RAD-147,RAD,147,,images/RAD-147.png
+"CALM, CHAOS","LEGEND, RIVEN",The Exile,Units you play to battlefields you control enter ready.,RAD-149,RAD,149,,images/RAD-149.png
+"MIND, ORDER","LEGEND, SERAPHINE",Starry-Eyed Songstress,"As an additional cost to play a spell, you may exhaust me and three friendly units to reduce the cost of that spell by {2}.",RAD-151,RAD,151,,images/RAD-151.png
+"BODY, CHAOS","LEGEND, EVELYNN",Agony's Embrace,"Once each turn, when you play a card from face down, draw 1. Then, if it's not your turn, discard 1.",RAD-153,RAD,153,,images/RAD-153.png
+"BODY, ORDER","LEGEND, JARVAN IV",Exemplar of Demacia,"When you play a gear with {deploy}, you may exhaust me and pay {power} to move a friendly unit to that battlefield.",RAD-155,RAD,155,,images/RAD-155.png
+"FURY, MIND","LEGEND, EKKO",Boy Who Shattered Time,"{empower} — {1}, {tap} *(Use only if not Empowered.)*
+Disempower me, {tap}: Reduce the cost of the next unit you play this turn by {2} {power} and give it ""Kill me at end of turn.""",RAD-168,RAD,168,,images/RAD-168.png
+"FURY, CHAOS","LEGEND, ZIGGS",Hexplosives Expert,"{1} {power}, {tap}: Play a Bomb gear token to a battlefield. *(It has {deploy}. When it dies, deal 2 to an enemy there and kill your other Bombs there.)*",RAD-169,RAD,169,,images/RAD-169.png
+"FURY, ORDER","LEGEND, MORDEKAISER",Iron Revenant,"{reaction} Banish a unit or gear from your trash, {tap}: {add} {power}. Spend this Power only to play units or gear. *(Abilties that add resources can't be reacted to.)*",RAD-170,RAD,170,,images/RAD-170.png
+"CALM, MIND","LEGEND, ORIANNA",Lady of Clockwork,"At the start of our Main Phase, you may pay {1} to choose a friendly gear. It becomes a unit gear with Might equal to its Energy cost until you choose another gear with me.",RAD-171,RAD,171,,images/RAD-171.png
+"CALM, BODY","LEGEND, K'SANTE",Pride of Nazumah,"{1}, {tap}: Give a friendly unit ""I have {assault} equal to my {shield}"" this turn. *(+1 {might} for each instance of Assault while it's an attacker.)*",RAD-172,RAD,172,,images/RAD-172.png
+"CALM, CHAOS","LEGEND, RIVEN",The Exile,Units you play to battlefields you control enter ready.,RAD-173,RAD,173,,images/RAD-173.png
+"MIND, ORDER","LEGEND, SERAPHINE",Starry-Eyed Songstress,"As an additional cost to play a spell, you may exhaust me and three friendly units to reduce the cost of that spell by {2}.",RAD-174,RAD,174,,images/RAD-174.png
+"BODY, CHAOS","LEGEND, EVELYNN",Agony's Embrace,"Once each turn, when you play a card from face down, draw 1. Then, if it's not your turn, discard 1.",RAD-175,RAD,175,,images/RAD-175.png
+"BODY, ORDER","LEGEND, JARVAN IV",Exemplar of Demacia,"When you play a gear with {deploy}, you may exhaust me and pay {power} to move a friendly unit to that battlefield.",RAD-176,RAD,176,,images/RAD-176.png
+"FURY, MIND","LEGEND, EKKO",Boy Who Shattered Time,"{empower} — {1}, {tap} *(Use only if not Empowered.)*
+Disempower me, {tap}: Reduce the cost of the next unit you play this turn by {2} {power} and give it ""Kill me at end of turn.""",RAD-168s,RAD,168,s,images/RAD-168s.png
+"FURY, CHAOS","LEGEND, ZIGGS",Hexplosives Expert,"{1} {power}, {tap}: Play a Bomb gear token to a battlefield. *(It has {deploy}. When it dies, deal 2 to an enemy there and kill your other Bombs there.)*",RAD-169s,RAD,169,s,images/RAD-169s.png
+"FURY, ORDER","LEGEND, MORDEKAISER",Iron Revenant,"{reaction} Banish a unit or gear from your trash, {tap}: {add} {power}. Spend this Power only to play units or gear. *(Abilties that add resources can't be reacted to.)*",RAD-170s,RAD,170,s,images/RAD-170s.png
+"CALM, MIND","LEGEND, ORIANNA",Lady of Clockwork,"At the start of our Main Phase, you may pay {1} to choose a friendly gear. It becomes a unit gear with Might equal to its Energy cost until you choose another gear with me.",RAD-171s,RAD,171,s,images/RAD-171s.png
+"CALM, BODY","LEGEND, K'SANTE",Pride of Nazumah,"{1}, {tap}: Give a friendly unit ""I have {assault} equal to my {shield}"" this turn. *(+1 {might} for each instance of Assault while it's an attacker.)*",RAD-172s,RAD,172,s,images/RAD-172s.png
+"CALM, CHAOS","LEGEND, RIVEN",The Exile,Units you play to battlefields you control enter ready.,RAD-173s,RAD,173,s,images/RAD-173s.png
+"MIND, ORDER","LEGEND, SERAPHINE",Starry-Eyed Songstress,"As an additional cost to play a spell, you may exhaust me and three friendly units to reduce the cost of that spell by {2}.",RAD-174s,RAD,174,s,images/RAD-174s.png
+"BODY, CHAOS","LEGEND, EVELYNN",Agony's Embrace,"Once each turn, when you play a card from face down, draw 1. Then, if it's not your turn, discard 1.",RAD-175s,RAD,175,s,images/RAD-175s.png
+"BODY, ORDER","LEGEND, JARVAN IV",Exemplar of Demacia,"When you play a gear with {deploy}, you may exhaust me and pay {power} to move a friendly unit to that battlefield.",RAD-176s,RAD,176,s,images/RAD-176s.png
