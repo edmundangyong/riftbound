@@ -17,33 +17,38 @@ def init_db():
     
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS cards (
-            id TEXT PRIMARY KEY,
-            name TEXT NOT NULL,
-            type TEXT NOT NULL,
             domains TEXT,
-            set_code TEXT NOT NULL,
-            number INTEGER NOT NULL,
-            variant TEXT,
-            energy INTEGER NOT NULL,
-            power INTEGER NOT NULL DEFAULT 0,
+            type TEXT,
+            energy INTEGER,
+            power INTEGER,
+            might TEXT,
+            tags TEXT,
+            name TEXT,
+            keywords TEXT,
             text TEXT,
             flavour TEXT,
-            keywords TEXT,
-            might TEXT,
-            image_url TEXT NOT NULL,
+            id TEXT PRIMARY KEY,
+            set_code TEXT,
+            number INTEGER,
+            variant TEXT,
+            image_url TEXT,
+            quantity INTEGER NOT NULL DEFAULT 0,
+            quantity_foil INTEGER NOT NULL DEFAULT 0,
+            quantity_promo INTEGER NOT NULL DEFAULT 0,
             FOREIGN KEY (set_code) REFERENCES sets(code)
         )
     ''')
 
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS legends (
+            domains TEXT,
+            tags TEXT,
+            name TEXT NOT NULL,
+            text TEXT NOT NULL,
             id TEXT PRIMARY KEY,
             set_code TEXT NOT NULL,
             number INTEGER NOT NULL,
             variant TEXT,
-            name TEXT NOT NULL,
-            text TEXT NOT NULL,
-            domains TEXT,
             image_url TEXT NOT NULL,
             FOREIGN KEY (set_code) REFERENCES sets(code)
         )
