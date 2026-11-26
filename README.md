@@ -9,32 +9,38 @@ database containing (almost) all riftbound cards
     name TEXT NOT NULL,
     number INTEGER NOT NULL
 
-### cards (main deck)
-    domains TEXT,
-    type TEXT NOT NULL,
-    energy INTEGER NOT NULL,
-    power INTEGER NOT NULL DEFAULT 0,
-    might TEXT,
-    tags TEXT,
-    name TEXT NOT NULL,
-    keywords TEXT,
-    text TEXT,
-    flavour TEXT,
+### cards
     id TEXT PRIMARY KEY,
     set_code TEXT NOT NULL,
     number INTEGER NOT NULL,
     variant TEXT,
-    image_url TEXT NOT NULL,
+    name TEXT,
+    text TEXT,
+    image_url TEXT,
+    quantity INTEGER NOT NULL DEFAULT 0,
+    quantity_foil INTEGER NOT NULL DEFAULT 0,
+    quantity_promo INTEGER NOT NULL DEFAULT 0,
+    banned INTEGER NOT NULL DEFAULT 0,
     FOREIGN KEY (set_code) REFERENCES sets(code)
 
+### main_deck
+    id TEXT PRIMARY KEY,
+    domains TEXT,
+    type TEXT,
+    energy INTEGER,
+    power INTEGER,
+    might INTEGER,
+    tags TEXT,
+    keywords TEXT,
+    flavour TEXT,
+    FOREIGN KEY (id) REFERENCES cards(id) ON DELETE CASCADE
+
 ### legends
+    id TEXT PRIMARY KEY,
     domains TEXT,
     tags TEXT,
-    name TEXT NOT NULL,
-    text TEXT NOT NULL,
+    FOREIGN KEY (id) REFERENCES cards(id) ON DELETE CASCADE
+
+### battlefields
     id TEXT PRIMARY KEY,
-    set_code TEXT NOT NULL,
-    number INTEGER NOT NULL,
-    variant TEXT,
-    image_url TEXT NOT NULL,
-    FOREIGN KEY (set_code) REFERENCES sets(code)
+    FOREIGN KEY (id) REFERENCES cards(id) ON DELETE CASCADE
