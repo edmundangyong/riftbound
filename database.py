@@ -20,13 +20,23 @@ def init_db():
             id TEXT PRIMARY KEY,
             set_code TEXT NOT NULL,
             number INTEGER NOT NULL,
+            image_url TEXT,
             variant TEXT,
             name TEXT,
             text TEXT,
-            image_url TEXT,
-            quantity INTEGER NOT NULL DEFAULT 0,
-            quantity_foil INTEGER NOT NULL DEFAULT 0,
-            quantity_promo INTEGER NOT NULL DEFAULT 0,
+            rarity TEXT,
+            quantity_en INTEGER NOT NULL DEFAULT 0,
+            quantity_foil_en INTEGER NOT NULL DEFAULT 0,
+            quantity_promo_en INTEGER NOT NULL DEFAULT 0,
+            quantity_cn INTEGER NOT NULL DEFAULT 0,
+            quantity_foil_cn INTEGER NOT NULL DEFAULT 0,
+            quantity_promo_cn INTEGER NOT NULL DEFAULT 0,
+            quantity_fr INTEGER NOT NULL DEFAULT 0,
+            quantity_foil_fr INTEGER NOT NULL DEFAULT 0,
+            quantity_promo_fr INTEGER NOT NULL DEFAULT 0,
+            quantity_kr INTEGER NOT NULL DEFAULT 0,
+            quantity_foil_kr INTEGER NOT NULL DEFAULT 0,
+            quantity_promo_kr INTEGER NOT NULL DEFAULT 0,
             banned INTEGER NOT NULL DEFAULT 0,
             FOREIGN KEY (set_code) REFERENCES sets(code)
         )
@@ -62,45 +72,6 @@ def init_db():
             FOREIGN KEY (id) REFERENCES cards(id) ON DELETE CASCADE
         )
     ''')
-
-    # cursor.execute('''
-    #     CREATE TABLE IF NOT EXISTS cards (
-    #         domains TEXT,
-    #         type TEXT,
-    #         energy INTEGER,
-    #         power INTEGER,
-    #         might TEXT,
-    #         tags TEXT,
-    #         name TEXT,
-    #         keywords TEXT,
-    #         text TEXT,
-    #         flavour TEXT,
-    #         id TEXT PRIMARY KEY,
-    #         set_code TEXT,
-    #         number INTEGER,
-    #         variant TEXT,
-    #         image_url TEXT,
-    #         quantity INTEGER NOT NULL DEFAULT 0,
-    #         quantity_foil INTEGER NOT NULL DEFAULT 0,
-    #         quantity_promo INTEGER NOT NULL DEFAULT 0,
-    #         FOREIGN KEY (set_code) REFERENCES sets(code)
-    #     )
-    # ''')
-
-    # cursor.execute('''
-    #     CREATE TABLE IF NOT EXISTS legends (
-    #         domains TEXT,
-    #         tags TEXT,
-    #         name TEXT NOT NULL,
-    #         text TEXT NOT NULL,
-    #         id TEXT PRIMARY KEY,
-    #         set_code TEXT NOT NULL,
-    #         number INTEGER NOT NULL,
-    #         variant TEXT,
-    #         image_url TEXT NOT NULL,
-    #         FOREIGN KEY (set_code) REFERENCES sets(code)
-    #     )
-    # ''')
 
     conn.commit()
     conn.close()
