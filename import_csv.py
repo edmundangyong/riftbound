@@ -42,17 +42,19 @@ def import_cards():
         reader = csv.DictReader(f)
         for row in reader:
             cursor.execute('''
-                INSERT INTO cards (id, set_code, number, variant)
-                VALUES (?, ?, ?, ?)
+                INSERT INTO cards (id, set_code, number, variant, image_url)
+                VALUES (?, ?, ?, ?, ?)
                 ON CONFLICT(id) DO UPDATE SET
                     set_code = excluded.set_code,
                     number = excluded.number,
-                    variant = excluded.variant
+                    variant = excluded.variant,
+                    image_url = excluded.image_url
             ''', (
                 clean(row['id']),
                 clean(row['set_code']),
                 int(clean(row['number'])),
-                clean(row.get('variant'))
+                clean(row.get('variant')),
+                clean(row.get('image_url'))
             ))
 
     conn.commit()

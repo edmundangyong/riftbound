@@ -20,8 +20,8 @@ def init_db():
             id TEXT PRIMARY KEY,
             set_code TEXT NOT NULL,
             number INTEGER NOT NULL,
-            image_url TEXT,
             variant TEXT,
+            image_url TEXT,
             name TEXT,
             text TEXT,
             rarity TEXT,
@@ -76,6 +76,30 @@ def init_db():
     conn.commit()
     conn.close()
     print("SUCCESS MESSAGE")
+
+def get_card(card_id):
+    conn = sqlite3.connect('database.db')
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    cursor.execute("PRAGMA foreign_keys = ON;")
+
+    clean_id = card_id.strip().upper()
+
+    cursor.execute('''
+        SELECT
+            id, set_code, number, variant, image_url, name, rarity, banned,
+            quantity_en, quantity_foil_en, quantity_promo_en,
+            quantity_cn, quantity_foil_cn, quantity_promo_cn,
+            quantity_fr, quantity_foil_fr, quantity_promo_fr,
+            quantity_kr, quantity_foil_kr, quantity_promo_kr
+        FROM cards
+        WHERE id = ?
+    ''', (clean_id,))
+
+    row = cursor.fetchone()
+    conn.close()
+
+    return dict(row) if row else None
 
 if __name__ == '__main__':
     init_db()
